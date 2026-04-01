@@ -1,0 +1,24 @@
+{
+  "name": "J. Chugg Construction",
+  "short_name": "Field Ledger",
+  "description": "Job cost tracker for J. Chugg Construction",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f4",
+  "theme_color": "#c0181b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='32' fill='%23c0181b'/%3E%3Ctext x='96' y='130' font-family='Arial Black,sans-serif' font-size='100' font-weight='900' text-anchor='middle' fill='white'%3EJC%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='80' fill='%23c0181b'/%3E%3Ctext x='256' y='360' font-family='Arial Black,sans-serif' font-size='280' font-weight='900' text-anchor='middle' fill='white'%3EJC%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
